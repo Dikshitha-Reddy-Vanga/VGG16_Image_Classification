@@ -1,4 +1,4 @@
-# VGG16_Image_Classification
+# VGG16 Image Classification
 
 ## Project Overview
 
